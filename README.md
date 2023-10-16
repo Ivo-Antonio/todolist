@@ -17,8 +17,11 @@ Validação de rotas para garantir a segurança e integridade dos dados
 **Como Usar**
 
 Clone este repositório em sua máquina local.
+
 Configure seu ambiente Java 
+
 Execute o servidor localmente ou implante-o em um ambiente de produção.
+
 Comece a utilizar a API para gerenciar tarefas em sua aplicação To-Do List.
 
 **Contribuições**
