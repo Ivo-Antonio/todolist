@@ -7,8 +7,11 @@ atualização de tarefas e validação de rotas.
 **Recursos**
 
 Construção do back-end da aplicação de To-Do List
+
 Integração com Banco de Dados para armazenamento de tarefas
+
 Atualização de tarefas
+
 Validação de rotas para garantir a segurança e integridade dos dados
 
 **Como Usar**
